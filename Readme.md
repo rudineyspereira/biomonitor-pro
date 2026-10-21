@@ -54,7 +54,7 @@ onde:
 ### 4. Projeção Econométrica & Intervalos de Confiança
 Módulo preditivo com modelagem de regressão linear de tendência combinada a amortecimento sazonal, gerando horizontes de até 10 anos ($2026-2035$) com intervalos de confiança calculados a 95%:
 
-$$y_t = \alpha + \beta t + \epsilon_t, \quad \text{IC}_{95\%} = \hat{y}_t \pm 1,96 \cdot \sigma_{\text{residual}}$$
+$$y_t = \alpha + \beta t + \epsilon_t, \quad \text{IC}_{95\%} = \hat{y}_t \pm 1,96 \cdot \sigma_{\text{res}}$$
 
 ## ⚡ Funcionalidades do Aplicativo
 
