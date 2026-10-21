@@ -56,8 +56,6 @@ Módulo preditivo com modelagem de regressão linear de tendência combinada a a
 
 $$y_t = \alpha + \beta t + \epsilon_t, \quad \text{IC}_{95\%} = \hat{y}_t \pm 1,96 \cdot \sigma_{\text{residual}}$$
 
----
-
 ## ⚡ Funcionalidades do Aplicativo
 
 O painel está estruturado em 7 módulos funcionais:
