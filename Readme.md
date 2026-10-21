@@ -52,7 +52,7 @@ onde:
 > **$\text{QL} > 1,0$** indica vantagem comparativa revelada e especialização regional consolidada.
 
 ### 4. Projeção Econométrica & Intervalos de Confiança
-Módulo preditivo com modelagem de regressão linear de tendência combinada a amortecimento sazonal, gerando horizontes de até 10 anos ($2026-2035$) com intervalos de confiança calculados a $95\%$:
+Módulo preditivo com modelagem de regressão linear de tendência combinada a amortecimento sazonal, gerando horizontes de até 10 anos ($2026-2035$) com intervalos de confiança calculados a 95%:
 
 $$y_t = \alpha + \beta t + \epsilon_t, \quad \text{IC}_{95\%} = \hat{y}_t \pm 1,96 \cdot \sigma_{\text{residual}}$$
 
